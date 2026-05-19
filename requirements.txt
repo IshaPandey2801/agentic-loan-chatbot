@@ -1,0 +1,13 @@
+streamlit
+crewai
+crewai-tools
+fastapi
+uvicorn
+groq
+python-dotenv
+requests
+fpdf
+pandas
+pydantic
+python-multipart
+litellm

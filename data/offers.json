@@ -1,0 +1,42 @@
+[
+  {
+    "phone": "9876543210",
+    "preapproved_limit": 500000
+  },
+  {
+    "phone": "9876543211",
+    "preapproved_limit": 300000
+  },
+  {
+    "phone": "9876543212",
+    "preapproved_limit": 400000
+  },
+  {
+    "phone": "9876543213",
+    "preapproved_limit": 700000
+  },
+  {
+    "phone": "9876543214",
+    "preapproved_limit": 200000
+  },
+  {
+    "phone": "9876543215",
+    "preapproved_limit": 350000
+  },
+  {
+    "phone": "9876543216",
+    "preapproved_limit": 600000
+  },
+  {
+    "phone": "9876543217",
+    "preapproved_limit": 450000
+  },
+  {
+    "phone": "9876543218",
+    "preapproved_limit": 250000
+  },
+  {
+    "phone": "9876543219",
+    "preapproved_limit": 800000
+  }
+]

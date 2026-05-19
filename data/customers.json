@@ -1,0 +1,92 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Rahul Sharma",
+    "phone": "9876543210",
+    "city": "Mumbai",
+    "address": "Andheri West, Mumbai",
+    "salary": 75000,
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 2,
+    "name": "Priya Verma",
+    "phone": "9876543211",
+    "city": "Delhi",
+    "address": "Rohini, Delhi",
+    "salary": 55000,
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 3,
+    "name": "Amit Patel",
+    "phone": "9876543212",
+    "city": "Ahmedabad",
+    "address": "Navrangpura, Ahmedabad",
+    "salary": 120000,
+    "employment_type": "Business"
+  },
+  {
+    "customer_id": 4,
+    "name": "Sneha Kapoor",
+    "phone": "9876543213",
+    "city": "Bangalore",
+    "address": "Whitefield, Bangalore",
+    "salary": 95000,
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 5,
+    "name": "Vikram Singh",
+    "phone": "9876543214",
+    "city": "Lucknow",
+    "address": "Gomti Nagar, Lucknow",
+    "salary": 40000,
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 6,
+    "name": "Neha Joshi",
+    "phone": "9876543215",
+    "city": "Pune",
+    "address": "Hinjewadi, Pune",
+    "salary": 68000,
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 7,
+    "name": "Arjun Mehta",
+    "phone": "9876543216",
+    "city": "Jaipur",
+    "address": "Malviya Nagar, Jaipur",
+    "salary": 85000,
+    "employment_type": "Business"
+  },
+  {
+    "customer_id": 8,
+    "name": "Kavya Nair",
+    "phone": "9876543217",
+    "city": "Chennai",
+    "address": "Anna Nagar, Chennai",
+    "salary": 72000,
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 9,
+    "name": "Rohit Das",
+    "phone": "9876543218",
+    "city": "Kolkata",
+    "address": "Salt Lake, Kolkata",
+    "salary": 50000,
+    "employment_type": "Salaried"
+  },
+  {
+    "customer_id": 10,
+    "name": "Ananya Reddy",
+    "phone": "9876543219",
+    "city": "Hyderabad",
+    "address": "Madhapur, Hyderabad",
+    "salary": 110000,
+    "employment_type": "Salaried"
+  }
+]
